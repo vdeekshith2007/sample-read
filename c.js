@@ -5,23 +5,23 @@ const dblBtn = document.getElementById("dblBtn");
 const inputBox = document.getElementById("name");
 const output = document.getElementById("output");
 
-// Click Event
+// Click Event to change heading text and color
 clickBtn.addEventListener("click", function () {
     heading.innerHTML = "Button Clicked!";
     heading.style.color = "blue";
 });
 
-// Double Click Event
+// Double Click Event to show alert 
 dblBtn.addEventListener("dblclick", function () {
     alert("You double-clicked the button!");
 });
 
-// Mouse Over Event
+// Mouse Over Event to change button background color
 clickBtn.addEventListener("mouseover", function () {
     clickBtn.style.backgroundColor = "yellow";
 });
 
-// Mouse Out Event
+// Mouse Out Event to reset button background color
 clickBtn.addEventListener("mouseout", function () {
     clickBtn.style.backgroundColor = "";
 });

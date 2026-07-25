@@ -1,4 +1,4 @@
-// Select element by ID getellementbyid
+// Select element by ID getElementById
 const heading = document.getElementById("heading");
 heading.style.color = "blue";
 
