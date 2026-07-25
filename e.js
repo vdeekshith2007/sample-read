@@ -4,7 +4,7 @@ function greet() {
         "Hello! This is a Function Declaration.";
 }
 
-// 2. Function Expression (Function Definition)
+// 2. Function Expression (Function Definitions)
 const showMessage = function () {
     document.getElementById("output").innerHTML =
         "Hello! This is a Function Expression.";
