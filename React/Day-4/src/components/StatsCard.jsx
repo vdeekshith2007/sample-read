@@ -12,7 +12,7 @@ function StatsCard({ icon, label, value, color = "#007bff" }) {
 }
 
 // // Usage in App.jsx
-// <div className="stats-grid">
+// <div className="stats-grid" >
 //   <StatsCard icon="📝" label="Posts" value={stats.posts} color="#ff6b6b" />
 //   <StatsCard icon="👥" label="Followers" value={stats.followers} color="#4ecdc4" />
 //   <StatsCard icon="👤" label="Following" value={stats.following} color="#45b7d1" />
