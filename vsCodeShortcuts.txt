@@ -1,4 +1,4 @@
-// Place your key bindings in this file to override the defaults
+// Place your key bindings in this file to override the defaults action to perform the code with any errors.
 [
     {
         "key": "ctrl+shift+alt+oem_4",
