@@ -11,7 +11,7 @@ clickBtn.addEventListener("click", function () {
     heading.style.color = "blue";
 });
 
-// Double Click Event to show alert 
+// Double Click Event to show alert  
 dblBtn.addEventListener("dblclick", function () {
     alert("You double-clicked the button!");
 });
