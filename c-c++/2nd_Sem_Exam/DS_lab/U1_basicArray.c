@@ -67,5 +67,6 @@ printf("The array elements after deletion:\n");
 for(int i = 0; i < n; i++)
 printf("LA[%d] = %d \n", i, LA[i]);
 return 0;
+
 }
 */
