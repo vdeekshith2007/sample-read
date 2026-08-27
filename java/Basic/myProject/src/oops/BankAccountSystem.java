@@ -19,8 +19,8 @@
     }
 public class BankAccountSystem {
     public static void main(String[] args) {
-        Account a1 = new Account("Rajesh Pandit");
-        Account a2 = new Account("Naresh Pandit",1000000);
+        Account a1 = new Account("deekshith");
+        Account a2 = new Account("vataparthi",1000000);
         System.out.println(Account.bankName);
         System.out.println(a1.bankCode);
         System.out.println(a1.balance);
