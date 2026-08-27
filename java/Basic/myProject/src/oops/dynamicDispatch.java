@@ -1,4 +1,4 @@
-// dynamicdispatch.java
+// dynamicdispatch.java in intellji jdk
 class A {
 
     void display() {
