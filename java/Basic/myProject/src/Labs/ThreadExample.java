@@ -1,4 +1,4 @@
-// java threads program
+// java threads program -multiple concurrency 
 import java.lang.*;
 
 // class GoodMorningThread extends Thread {
