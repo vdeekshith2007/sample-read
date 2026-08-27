@@ -1,4 +1,4 @@
-// threads in java
+// threads in java concuurency
 public class Threads {
 
     public static void main(String[] args) {
